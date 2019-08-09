@@ -1,7 +1,7 @@
 package face
 
 // #cgo pkg-config: dlib-1
-// #cgo CXXFLAGS: -std=c++1z -Wall -O3 -DNDEBUG -march=native
+// #cgo CXXFLAGS: -std=c++1z -Wall -O3 -DNDEBUG
 // #cgo LDFLAGS: -ljpeg
 // #include <stdlib.h>
 // #include <stdint.h>
